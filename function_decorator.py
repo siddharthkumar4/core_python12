@@ -291,6 +291,7 @@ print("i m the power",pow(3,45))
 tp = (45,67,800,100)
 print(tp[0])
 
+print("hiiiiii")
 
 
 
